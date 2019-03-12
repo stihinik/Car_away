@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\пользователь\desktop\test_task\car_away\car_away\consoleapplication1\consoleapplication1.cpp(138): warning C4584: sHybrid: базовый класс "sCar" уже является базовым классом для "sGasEngine"
+  c:\users\пользователь\desktop\test_task\car_away\car_away\consoleapplication1\consoleapplication1.cpp(56): note:  см. объявление "sCar"
+  c:\users\пользователь\desktop\test_task\car_away\car_away\consoleapplication1\consoleapplication1.cpp(122): note:  см. объявление "sGasEngine"
+c:\users\пользователь\desktop\test_task\car_away\car_away\consoleapplication1\consoleapplication1.cpp(200): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\desktop\test_task\car_away\car_away\consoleapplication1\consoleapplication1.cpp(95): warning C4715: sCar::getFuturePos: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\Пользователь\Desktop\Test_Task\Car_Away\Car_away\x64\Debug\ConsoleApplication1.exe
